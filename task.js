@@ -43,4 +43,11 @@
 // let sum = a.concat(b);
 // console.log(sum);
 // 6) Дан массив ['a', 'b', 'c']. Добавьте ему в начало элементы 1, 2, 3. И отдельно добавьте в конец массива 1,2,3.
+let arr = ['a', 'b', 'c'];
+arr.unshift[1]; 
+arr.unshift[2];
+arr.unshift[3];
+arr.push[1,2,3];
+
+
 
